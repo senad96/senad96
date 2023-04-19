@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **beadini.senad@gmail.com**
 
-- ⚡ Fun fact **Did you hear about the neural network that mistook a turtle for a car? That's the power of adversarial attacks!"**
+- ⚡ Fun fact : Did you hear about the neural network that mistook a turtle for a car? That's the power of adversarial attacks!"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
