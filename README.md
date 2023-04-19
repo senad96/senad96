@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senad!</h1>
 <h3 align="center">A ML Engineer and AI Researcher</h3>
 
-- 🔭 I’m currently working on **Adversarial Deep Learning and NLP**
+- 🔭 I’m currently working on **Adversarial Deep Learning** and **NLP**
 
 - 📫 How to reach me **beadini.senad@gmail.com**
 
