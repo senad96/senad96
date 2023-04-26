@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senad!</h1>
-<h3 align="center">A ML Engineer and AI Researcher</h3>
+<h3 align="center">A ML Engineer & AI Researcher</h3>
 
 - 🔭 I’m currently working on **Adversarial Deep Learning** and **NLP**
 
