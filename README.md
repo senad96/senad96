@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Adversarial Deep Learning**, **MLOps**, and **NLP**.
 
-- 📫 How to reach me **beadini.senad@gmail.com**
-
 - ⚡ Fun fact : Did you hear about the neural network that mistook a turtle for a car? That's the power of adversarial attacks!
 
 <h3 align="left">Nice Tools *-*</h3>
