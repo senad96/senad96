@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senad!</h1>
 <h3 align="center">ML Engineer & AI Researcher</h3>
 
-- 🔭 I’m currently working on **Adversarial Deep Learning**, **MLOps**, and **NLP**.
+- 🔭 I’m currently working on **Adversarial Machine Learning**, **MLOps**, and **NLP**.
 
 - ⚡ Fun fact : Did you hear about the neural network that mistook a turtle for a car? That's the power of adversarial attacks!
 
